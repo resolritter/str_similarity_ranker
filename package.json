@@ -1,0 +1,15 @@
+{
+  "name": "str_comparer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "resolritter",
+  "license": "ISC",
+  "dependencies": {
+    "fastest-levenshtein": "^1.0.12"
+  }
+}
