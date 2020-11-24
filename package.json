@@ -1,11 +1,8 @@
 {
-  "name": "str_comparer",
+  "name": "str_similarity_ranker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Given an array of strings as FIRST, and N_ARRAYS arrays of strings, rank N_ARRAYS by similarity to FIRST.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "resolritter",
   "license": "ISC",
